@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Home = () => {
     return (
@@ -14,6 +15,7 @@ const Home = () => {
 
 
 </section>
+<button className="bg-pink-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"><Link to='/review'>Review</Link></button>
         </div>
     );
 };

@@ -1,5 +1,5 @@
 
-import { Route, Routes } from 'react-router-dom';
+import {  Route, Routes } from 'react-router-dom';
 import './App.css';
 import About from './components/About/About';
 import Blogs from './components/Blogs/Blogs';
@@ -24,7 +24,7 @@ function App() {
 
   </Routes>
 
-
+      
 
     </div>
   );
