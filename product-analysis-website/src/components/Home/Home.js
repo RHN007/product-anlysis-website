@@ -5,7 +5,7 @@ const Home = () => {
         <div className='p-6'>
             <section className="flex sm:justify-center content-center items-center space-x-4 align-item">
      <div className='w-1/2'>
-            <h1 className='text-6xl font-bold m-5 text-rose-600'>Product Analysis</h1>
+            <h1 className='text-6xl font-bold m-5 text-rose-600'>Sales Analysis</h1>
             <p className='text-xl font-bold text-wrapper text-rose-900'>This Website will give you an Overview of Product Analysis and Review of the customers</p>
      </div>
     <div className='w-1/2'>
