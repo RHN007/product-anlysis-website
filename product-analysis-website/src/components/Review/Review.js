@@ -12,7 +12,7 @@ const Review = () => {
 
     return (
         <div >
-            <h1 className='text-3xl font-bold'>This is Review Section </h1>
+            <h1 className='text-3xl font-bold text-rose-700'>This is Review from our valuable Customers</h1>
            
         <div className='grid grid-cols-3 gap-4 p-10 m-10' >
         

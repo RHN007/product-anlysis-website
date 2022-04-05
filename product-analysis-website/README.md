@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# This is representing our anaysis app . 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project live website [Sales-Analysis](https://melodious-bublanina-443ce2.netlify.app/)
+
 
 ## Available Scripts
 
